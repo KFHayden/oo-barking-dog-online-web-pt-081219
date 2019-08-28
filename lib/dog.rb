@@ -18,4 +18,5 @@ class Dog
 end
 
 fido = Dog.new
+fido.bark = "woof!"
 fido.bark puts "woof!"
