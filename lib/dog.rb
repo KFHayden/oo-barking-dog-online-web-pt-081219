@@ -16,8 +16,8 @@ class Dog
     @this_dogs_name
   end
 end
-
-fido = Dog.new
-
 fido.bark = puts "woof!"
 fido.bark
+fido = Dog.new
+
+
